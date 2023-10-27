@@ -6,4 +6,6 @@
 
 # then run the app.py and you are good to go 
 
+## Run it on local host = 127.0.0.1 and port as 5000 or 8000
+
 <h1> Abhishek Jadhav </h1>
